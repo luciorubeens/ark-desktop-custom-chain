@@ -1,0 +1,9 @@
+{
+  "name": "custom-chain",
+  "version": "0.0.1",
+  "title": "Custom Chain",
+  "description": "Plugin to customize the ARK Desktop Wallet",
+  "main": "src/index.js",
+  "author": "Lucio Rubens <lucio@ark.io>",
+  "license": "MIT"
+}
